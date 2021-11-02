@@ -8,3 +8,5 @@
 - [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 #### 第三方插件：
 - [font-awesome](https://fontawesome.com/)
+#### 內容使用申明：
+- 圖庫來源：[ramdom user generator](https://randomuser.me/)
