@@ -1,6 +1,6 @@
 # 六角學院切版作業
 版型皆出自 [六角學院](https://www.hexschool.com/)線上課程作業，僅作切版練習
-### Bootstrap 課程作業 1：[Github Pages](https://joyun25.github.io/hex-bootstrap-blog/)
+### Bootstrap 課程作業 1：[Github Pages](https://joyun25.github.io/blog-example-using-bootstrap5/)
 ![](https://i.imgur.com/hbgEjit.png)
 #### 功能：
 - 一頁式網站
